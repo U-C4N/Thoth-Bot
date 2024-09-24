@@ -1,0 +1,17 @@
+# Coder AI Example
+
+This file demonstrates the functionality of the Coder AI module in Thot Bot.
+
+## Features
+
+1. Code completion
+2. Code explanation
+3. Bug detection and fixing
+4. Code optimization suggestions
+5. Language-specific help
+
+## Usage Example
+
+User: Can you help me write a Python function to calculate the Fibonacci sequence?
+
+Coder AI: Certainly! Here's a Python function to calculate the Fibonacci sequence:

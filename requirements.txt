@@ -1,6 +1,0 @@
-groq==0.3.3
-rich==13.5.2
-python-dotenv==1.0.0
-google-generativeai==0.3.2
-fastapi==0.110.0
-websockets==12.0
