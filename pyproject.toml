@@ -1,0 +1,12 @@
+[project]
+name = "repl-nix-new-repl"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.37.1",
+    "google-generativeai>=0.8.3",
+    "groq",
+    "openai>=0.11.0",
+    "rich>=13.9.3",
+]

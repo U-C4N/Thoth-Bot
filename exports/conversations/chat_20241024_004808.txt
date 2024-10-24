@@ -1,0 +1,23 @@
+AI Assistant Conversation
+Date: 2024-10-24 00:48:08
+
+USER:
+Merhaba
+
+==================================================
+
+ASSISTANT:
+Merhaba. Size nasıl yardımcı olabilirim?
+
+==================================================
+
+USER:
+Kimsin sen ?
+
+==================================================
+
+ASSISTANT:
+Ben bir dil modeliyim. İnsanlarla sohbet etmek ve onlara bilgi sağlamak için tasarlandım. Sizinle konuşmak ve size yardımcı olmak için buradayım. Sorularınızı sorabilir, konular hakkında tartışabilirsiniz veya sadece sohbet edebiliriz.
+
+==================================================
+

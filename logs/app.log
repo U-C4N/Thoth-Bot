@@ -1,0 +1,633 @@
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,142 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,143 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:46:35,144 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:48:34,080 - ai_assistant - ERROR - Settings management error: Invalid section name: 'DEFAULT'
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:53:26,550 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:25,431 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,688 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,692 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:30,694 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,456 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,457 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:35,458 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:54:39,315 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,798 - ai_assistant - ERROR - OpenAI chat completion error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,799 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:55:00,800 - ai_assistant - ERROR - Chat error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:30,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 19:59:58,592 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-23 20:01:01,902 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:47:11,479 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:39,071 - ai_assistant - ERROR - Settings management error: 
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:48:44,544 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:20,525 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:52:25,754 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:53:18,810 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:55:34,116 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:04,606 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:57:09,831 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:28,037 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 00:59:42,771 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:22,486 - ai_assistant - ERROR - Code generation error: 
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:01:27,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:02:32,358 - ai_assistant - ERROR - Main menu error: 
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:07:44,667 - ai_assistant - ERROR - Application error: 1 validation error for ChatOpenAI
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:07,217 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:13,630 - ai_assistant - ERROR - Web search error: 1 validation error for Task
+expected_output
+  Field required [type=missing, input_value={'description': 'Search a... analyzing web content)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.9/v/missing
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:09:47,017 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:10:01,798 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:12:13,573 - ai_assistant - ERROR - Web search error: Input data should be a string, not <class 'crewai.crews.crew_output.CrewOutput'>
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:14:09,081 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:19:39,330 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:54,935 - ai_assistant - ERROR - Web search error: Invalid result format from crew
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:23:56,757 - ai_assistant - ERROR - Web search error: 
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
