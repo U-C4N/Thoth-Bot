@@ -19,87 +19,90 @@ class CodeGenerator:
         self.ai_manager = AIManager(config)
 
     async def generate_code_with_files(self):
-        """Generate code and automatically create necessary files and folders."""
-        console.clear()
-        console.print(Panel(
-            "Code Generation Interface\n" +
-            "Describe what you want to create, including:\n" +
-            "- Project structure\n" +
-            "- File contents\n" +
-            "- Dependencies\n" +
-            "Type 'exit' to return to main menu",
-            title="Code Generation",
-            style="bold blue"
-        ))
+        try:
+            console.clear()
+            console.print(Panel(
+                "Code Generation Interface\n" +
+                "Describe what you want to create, including:\n" +
+                "- Project structure\n" +
+                "- File contents\n" +
+                "- Dependencies\n" +
+                "Type 'exit' to return to main menu",
+                title="Code Generation",
+                style="bold blue"
+            ))
 
-        while True:
-            try:
-                user_input = Prompt.ask("\n[bold blue]Enter your request[/bold blue]")
-                
-                if user_input.lower() == "exit":
-                    break
-
-                # Show thinking message
-                with console.status("[bold green]Generating code structure...[/bold green]"):
-                    # Get AI response with file structure and contents
-                    response = await self.ai_manager.get_code_response(user_input)
-                
-                # Display the raw AI response first
-                console.print(Panel(
-                    Markdown(f"```\n{response}\n```"),
-                    title="AI Response",
-                    style="cyan"
-                ))
-
-                # Ask for confirmation
-                if Prompt.ask(
-                    "\n[bold yellow]Do you want to create these files and folders?[/bold yellow]",
-                    choices=["yes", "no"],
-                    default="no"
-                ) == "yes":
-                    # Parse the response and create files
-                    structure = self._parse_file_structure(response)
+            while True:
+                try:
+                    user_input = Prompt.ask("\n[bold blue]Enter your request[/bold blue]")
                     
-                    # Generate project name automatically
-                    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-                    base_name = "new_project"
-                    project_name = f"{base_name}_{timestamp}"
-                    
-                    # Create the project directory
-                    os.makedirs(project_name, exist_ok=True)
-                    console.print(f"[green]Created project directory: {project_name}[/green]")
-                    
-                    # Create folders
-                    for folder in structure['folders']:
-                        folder_path = os.path.join(project_name, folder)
-                        os.makedirs(folder_path, exist_ok=True)
-                        console.print(f"[green]Created folder: {folder_path}[/green]")
+                    if user_input.lower() == "exit":
+                        break
 
-                    # Create files
-                    for file_info in structure['files']:
-                        file_path = os.path.join(project_name, file_info['path'])
-                        # Ensure parent directory exists
-                        os.makedirs(os.path.dirname(file_path), exist_ok=True)
-                        
-                        # Skip empty files
-                        if not file_info['content'].strip():
-                            console.print(f"[yellow]Skipping empty file: {file_path}[/yellow]")
-                            continue
-                        
-                        # Write file content
-                        with open(file_path, 'w', encoding='utf-8') as f:
-                            f.write(file_info['content'].strip() + '\n')
-                        console.print(f"[green]Created file: {file_path}[/green]")
-
+                    # Show thinking message
+                    with console.status("[bold green]Generating code structure...[/bold green]"):
+                        # Get AI response with file structure and contents
+                        response = await self.ai_manager.get_code_response(user_input)
+                    
+                    # Display the raw AI response first
                     console.print(Panel(
-                        f"[bold green]Project structure created successfully in '{project_name}' directory![/bold green]",
-                        style="green"
+                        Markdown(f"```\n{response}\n```"),
+                        title="AI Response",
+                        style="cyan"
                     ))
-                
-            except Exception as e:
-                logger.error(f"Code generation error: {str(e)}")
-                console.print(f"[red]Error: {str(e)}[/red]")
-                await asyncio.sleep(1)
+
+                    # Ask for confirmation
+                    if Prompt.ask(
+                        "\n[bold yellow]Do you want to create these files and folders?[/bold yellow]",
+                        choices=["yes", "no"],
+                        default="no"
+                    ) == "yes":
+                        # Parse the response and create files
+                        structure = self._parse_file_structure(response)
+                        
+                        # Generate project name automatically
+                        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                        base_name = "new_project"
+                        project_name = f"{base_name}_{timestamp}"
+                        
+                        # Create the project directory
+                        os.makedirs(project_name, exist_ok=True)
+                        console.print(f"[green]Created project directory: {project_name}[/green]")
+                        
+                        # Create folders
+                        for folder in structure['folders']:
+                            folder_path = os.path.join(project_name, folder)
+                            os.makedirs(folder_path, exist_ok=True)
+                            console.print(f"[green]Created folder: {folder_path}[/green]")
+
+                        # Create files
+                        for file_info in structure['files']:
+                            file_path = os.path.join(project_name, file_info['path'])
+                            # Ensure parent directory exists
+                            os.makedirs(os.path.dirname(file_path), exist_ok=True)
+                            
+                            # Skip empty files
+                            if not file_info['content'].strip():
+                                console.print(f"[yellow]Skipping empty file: {file_path}[/yellow]")
+                                continue
+                        
+                            # Write file content
+                            with open(file_path, 'w', encoding='utf-8') as f:
+                                f.write(file_info['content'].strip() + '\n')
+                            console.print(f"[green]Created file: {file_path}[/green]")
+
+                        console.print(Panel(
+                            f"[bold green]Project structure created successfully in '{project_name}' directory![/bold green]",
+                            style="green"
+                        ))
+                    
+                except KeyboardInterrupt:
+                    raise  # Re-raise to be caught by outer try
+                except Exception as e:
+                    console.print(f"[red]Error: {str(e)}[/red]")
+                    await asyncio.sleep(1)
+        except KeyboardInterrupt:
+            console.print("\nExiting code generation...", style="bold yellow")
 
     def _parse_file_structure(self, ai_response: str) -> dict:
         """Parse AI response to extract folder and file information."""

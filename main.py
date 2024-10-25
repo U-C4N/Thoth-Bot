@@ -49,7 +49,11 @@ class AIAssistant:
                 plugin_choices = [str(i) for i in range(7, 7 + len(self.plugin_manager.list_plugins()))]
                 choices.extend(plugin_choices)
 
-                choice = Prompt.ask("Select an option", choices=choices)
+                try:
+                    choice = Prompt.ask("Select an option", choices=choices)
+                except KeyboardInterrupt:
+                    console.print("\nExiting to main menu...", style="bold yellow")
+                    continue
                 
                 if choice == "1":
                     await self.chat.start_chat()
@@ -115,8 +119,11 @@ class AIAssistant:
                     console.print("Goodbye!", style="bold blue")
                     break
 
+            except KeyboardInterrupt:
+                console.print("\nExiting program...", style="bold yellow")
+                self.running = False
+                break
             except Exception as e:
-                logger.error(f"Main menu error: {str(e)}")
                 console.print(f"[red]Error: {str(e)}[/red]")
                 await asyncio.sleep(2)
 

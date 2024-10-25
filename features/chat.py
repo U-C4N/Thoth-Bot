@@ -25,48 +25,52 @@ class ChatInterface:
 
     async def start_chat(self):
         """Start an interactive chat session with the AI."""
-        console.clear()
-        console.print(Panel(
-            "Chat Interface - Commands:\n" +
-            "/exit - Return to main menu\n" +
-            "/save [name] - Save current session\n" +
-            "/load - Load a previous session\n" +
-            "/list - List available sessions\n" +
-            "/export [format] - Export current session (txt/md/json)\n" +
-            "/clear - Clear current session\n" +
-            "/help - Show this help message",
-            title="Chat Commands",
-            style="bold blue"
-        ))
-        
-        while True:
-            try:
-                user_input = await self._get_user_input()
-                
-                if user_input.startswith("/"):
-                    if await self._handle_command(user_input):
-                        continue
-                    break
-                
-                # Add user message to history
-                self.conversation_history.append({"role": "user", "content": user_input})
-                
-                # Get AI response
-                response = await self.ai_manager.get_chat_response(
-                    self.conversation_history
-                )
-                
-                # Add AI response to history
-                self.conversation_history.append({"role": "assistant", "content": response})
-                
-                # Display response
-                md = Markdown(response)
-                console.print(Panel(md, style="green", title="AI Response"))
-                
-            except Exception as e:
-                logger.error(f"Chat error: {str(e)}")
-                console.print(f"[red]Error: {str(e)}[/red]")
-                await asyncio.sleep(1)
+        try:
+            console.clear()
+            console.print(Panel(
+                "Chat Interface - Commands:\n" +
+                "/exit - Return to main menu\n" +
+                "/save [name] - Save current session\n" +
+                "/load - Load a previous session\n" +
+                "/list - List available sessions\n" +
+                "/export [format] - Export current session (txt/md/json)\n" +
+                "/clear - Clear current session\n" +
+                "/help - Show this help message",
+                title="Chat Commands",
+                style="bold blue"
+            ))
+            
+            while True:
+                try:
+                    user_input = await self._get_user_input()
+                    
+                    if user_input.startswith("/"):
+                        if await self._handle_command(user_input):
+                            continue
+                        break
+                    
+                    # Add user message to history
+                    self.conversation_history.append({"role": "user", "content": user_input})
+                    
+                    # Get AI response
+                    response = await self.ai_manager.get_chat_response(
+                        self.conversation_history
+                    )
+                    
+                    # Add AI response to history
+                    self.conversation_history.append({"role": "assistant", "content": response})
+                    
+                    # Display response
+                    md = Markdown(response)
+                    console.print(Panel(md, style="green", title="AI Response"))
+                    
+                except KeyboardInterrupt:
+                    raise  # Re-raise to be caught by outer try
+                except Exception as e:
+                    console.print(f"[red]Error: {str(e)}[/red]")
+                    await asyncio.sleep(1)
+        except KeyboardInterrupt:
+            console.print("\nExiting chat...", style="bold yellow")
     
     async def _get_user_input(self) -> str:
         """Get user input with proper formatting."""

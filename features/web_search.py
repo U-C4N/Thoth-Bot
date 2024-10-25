@@ -3,10 +3,10 @@ from rich.prompt import Prompt
 from rich.panel import Panel
 from rich.markdown import Markdown
 import asyncio
+import aiohttp
+import json
 from typing import List, Dict, Any
-import os
 from crewai import Agent, Task, Crew, Process
-from tavily import TavilyClient
 from langchain.tools import Tool
 from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
@@ -26,9 +26,8 @@ class WebSearch:
         self.current_results = []
         self.current_query = ""
         
-        # Initialize Tavily client
-        tavily_api_key = config.get("Tavily", "api_key")
-        self.tavily_client = TavilyClient(api_key=tavily_api_key)
+        # Get Serper API key
+        self.serper_api_key = config.get("Serper", "api_key")
         
         # Get AI provider and model
         self.provider = config.get("DEFAULT", "ai_provider")
@@ -40,8 +39,8 @@ class WebSearch:
         # Create search tool
         self.search_tool = Tool(
             name="web_search",
-            func=self._search_with_validation,
-            description="Search the web for accurate and relevant information"
+            func=self._search_with_serper,
+            description="Search the web using Serper.dev API"
         )
         
         # Initialize CrewAI agents
@@ -70,13 +69,38 @@ class WebSearch:
                 model_name=self.model
             )
 
-    def _search_with_validation(self, query: str) -> List[Dict]:
-        """Perform search with input validation."""
+    async def _search_with_serper(self, query: str) -> List[Dict]:
+        """Perform search using Serper.dev API."""
         if not isinstance(query, str):
             raise ValueError("Search query must be a string")
+            
         try:
-            results = self.tavily_client.search(query=query)
-            return results.get("results", [])
+            url = "https://google.serper.dev/search"
+            headers = {
+                'X-API-KEY': self.serper_api_key,
+                'Content-Type': 'application/json'
+            }
+            payload = json.dumps({"q": query})
+
+            async with aiohttp.ClientSession() as session:
+                async with session.post(url, headers=headers, data=payload) as response:
+                    if response.status == 200:
+                        data = await response.json()
+                        # Extract organic results
+                        results = []
+                        if 'organic' in data:
+                            for item in data['organic']:
+                                results.append({
+                                    'title': item.get('title', ''),
+                                    'link': item.get('link', ''),
+                                    'snippet': item.get('snippet', ''),
+                                    'position': item.get('position', 0)
+                                })
+                        return results
+                    else:
+                        logger.error(f"Serper API error: {response.status}")
+                        return []
+                        
         except Exception as e:
             logger.error(f"Search error: {str(e)}")
             return []
@@ -107,87 +131,68 @@ class WebSearch:
         }
 
     async def search(self):
-        """Perform web search using CrewAI agents."""
-        console.clear()
-        console.print(Panel(
-            "Web Search Interface - Commands:\n" +
-            "/exit - Return to main menu\n" +
-            "/export [format] - Export results (txt/md/json)\n" +
-            "/help - Show this help message",
-            title="Web Search Commands",
-            style="bold blue"
-        ))
-        
-        while True:
-            try:
-                query = await self._get_user_input()
-                
-                if query.startswith("/"):
-                    if await self._handle_command(query):
-                        continue
-                    break
-                
-                self.current_query = query
-                
-                # Create sequential research tasks
-                research_task = Task(
-                    description=f"""Research query: {query}
-                    1. Search for accurate information from reliable sources
-                    2. Cross-reference findings across multiple sources
-                    3. Rate source reliability (professional > social media)
-                    4. Identify key verified information""",
-                    expected_output="""Structured research findings with:
-                    - Key verified information
-                    - Source reliability assessment
-                    - Cross-referenced facts""",
-                    agent=self.agents["researcher"]
-                )
-
-                synthesis_task = Task(
-                    description="""Create final summary:
-                    1. Combine verified information
-                    2. Structure information by importance
-                    3. Present clear, concise summary""",
-                    expected_output="""Concise summary with:
-                    - Key verified findings
-                    - Confidence level
-                    - Structured presentation""",
-                    agent=self.agents["synthesizer"],
-                    context=[research_task]
-                )
-
-                # Create and run the crew
-                crew = Crew(
-                    agents=list(self.agents.values()),
-                    tasks=[research_task, synthesis_task],
-                    verbose=True,
-                    process=Process.sequential
-                )
-
-                with console.status("[bold green]Researching and analyzing...[/bold green]"):
-                    result = await asyncio.to_thread(crew.kickoff)
-                
-                # Process and store results
-                if isinstance(result, str):
-                    self.current_results = [{
-                        'title': 'Web Search Results',
-                        'url': f'Query: {query}',
-                        'summary': result
-                    }]
+        try:
+            console.clear()
+            console.print(Panel(
+                "Web Search Interface - Commands:\n" +
+                "/exit - Return to main menu\n" +
+                "/export [format] - Export results (txt/md/json)\n" +
+                "/help - Show this help message",
+                title="Web Search Commands",
+                style="bold blue"
+            ))
+            
+            while True:
+                try:
+                    query = await self._get_user_input()
                     
-                    # Display results
-                    console.print(Panel("Search Results:", style="cyan"))
-                    console.print(Panel(
-                        Markdown(result),
-                        style="green"
-                    ))
-                else:
-                    raise ValueError("Invalid result format from crew")
+                    if query.startswith("/"):
+                        if await self._handle_command(query):
+                            continue
+                        break
+                    
+                    self.current_query = query
+                    
+                    # Perform direct search first
+                    with console.status("[bold green]Searching...[/bold green]"):
+                        results = await self._search_with_serper(query)
+                    
+                    if results:
+                        # Store results
+                        self.current_results = results
+                        
+                        # Display direct search results
+                        console.print(Panel("Direct Search Results:", style="cyan"))
+                        for result in results[:5]:  # Show top 5 results
+                            console.print(Panel(
+                                f"[bold]{result['title']}[/bold]\n" +
+                                f"[blue]{result['link']}[/blue]\n\n" +
+                                f"{result['snippet']}",
+                                style="green"
+                            ))
+                    
+                    # AI Analysis (optional - user can choose)
+                    if Prompt.ask(
+                        "\nWould you like an AI analysis of these results?",
+                        choices=["y", "n"],
+                        default="n"
+                    ) == "y":
+                        with console.status("[bold green]Analyzing results...[/bold green]"):
+                            analysis = await self._analyze_results(results, query)
+                        
+                        console.print(Panel("AI Analysis:", style="cyan"))
+                        console.print(Panel(
+                            Markdown(analysis),
+                            style="green"
+                        ))
                 
-            except Exception as e:
-                logger.error(f"Web search error: {str(e)}")
-                console.print(f"[red]Error: {str(e)}[/red]")
-                await asyncio.sleep(1)
+                except KeyboardInterrupt:
+                    raise
+                except Exception as e:
+                    console.print(f"[red]Error: {str(e)}[/red]")
+                    await asyncio.sleep(1)
+        except KeyboardInterrupt:
+            console.print("\nExiting web search...", style="bold yellow")
 
     async def _get_user_input(self) -> str:
         """Get user input with proper formatting."""
@@ -238,3 +243,51 @@ class WebSearch:
             logger.error(f"Command error: {str(e)}")
             console.print(f"[red]Error executing command: {str(e)}[/red]")
             return True
+
+    async def _analyze_results(self, results: List[Dict], query: str) -> str:
+        """Analyze search results using AI."""
+        # Create a simple researcher agent
+        researcher = Agent(
+            role='Research Specialist',
+            goal='Analyze search results and provide a concise summary',
+            backstory="""Expert at analyzing information and providing clear summaries. 
+            Only reports facts that are explicitly stated in the search results.""",
+            llm=self.llm,
+            verbose=True
+        )
+        
+        # Format results for analysis
+        formatted_results = "\n\n".join([
+            f"Source: {result['title']}\nURL: {result['link']}\nContent: {result['snippet']}"
+            for result in results
+        ])
+        
+        # Create analysis task
+        task = Task(
+            description=f"""Analyze these search results for query: {query}
+
+Search Results:
+{formatted_results}
+
+Guidelines:
+1. Only include information explicitly stated in the results
+2. Do not make assumptions or inferences
+3. Cite the source for each piece of information
+4. If information conflicts, note the discrepancy
+5. Indicate confidence level based on source reliability""",
+            expected_output="""A concise summary containing:
+            - Verified facts from the search results
+            - Source citations
+            - Confidence level with explanation""",
+            agent=researcher
+        )
+        
+        # Run analysis
+        crew = Crew(
+            agents=[researcher],
+            tasks=[task],
+            verbose=True,
+            process=Process.sequential
+        )
+        
+        return await asyncio.to_thread(crew.kickoff)

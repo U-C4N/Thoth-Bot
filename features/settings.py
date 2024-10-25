@@ -16,41 +16,44 @@ class SettingsManager:
         self.model_config = ModelConfigManager(config)
 
     async def manage_settings(self):
-        """Manage application settings."""
-        console.clear()
-        while True:
-            try:
-                self._display_settings_menu()
-                choice = Prompt.ask(
-                    "Select an option", 
-                    choices=["1", "2", "3", "4", "5", "6", "7", "8", "9", "b"]
-                )
-                
-                if choice == "1":
-                    await self._manage_openai_settings()
-                elif choice == "2":
-                    await self._manage_anthropic_settings()
-                elif choice == "3":
-                    await self._manage_groq_settings()
-                elif choice == "4":
-                    await self._manage_gemini_settings()
-                elif choice == "5":
-                    await self._manage_arxiv_settings()
-                elif choice == "6":
-                    await self._manage_logging_settings()
-                elif choice == "7":
-                    await self._manage_default_provider()
-                elif choice == "8":
-                    await self._view_current_settings()
-                elif choice == "9":
-                    await self._manage_model_configs()
-                elif choice.lower() == "b":
-                    break
+        try:
+            console.clear()
+            while True:
+                try:
+                    self._display_settings_menu()
+                    choice = Prompt.ask(
+                        "Select an option", 
+                        choices=["1", "2", "3", "4", "5", "6", "7", "8", "9", "b"]
+                    )
                     
-            except Exception as e:
-                logger.error(f"Settings management error: {str(e)}")
-                console.print(f"[red]Error: {str(e)}[/red]")
-                await asyncio.sleep(1)
+                    if choice == "1":
+                        await self._manage_openai_settings()
+                    elif choice == "2":
+                        await self._manage_anthropic_settings()
+                    elif choice == "3":
+                        await self._manage_groq_settings()
+                    elif choice == "4":
+                        await self._manage_gemini_settings()
+                    elif choice == "5":
+                        await self._manage_arxiv_settings()
+                    elif choice == "6":
+                        await self._manage_logging_settings()
+                    elif choice == "7":
+                        await self._manage_default_provider()
+                    elif choice == "8":
+                        await self._view_current_settings()
+                    elif choice == "9":
+                        await self._manage_model_configs()
+                    elif choice.lower() == "b":
+                        break
+                        
+                except KeyboardInterrupt:
+                    raise  # Re-raise to be caught by outer try
+                except Exception as e:
+                    console.print(f"[red]Error: {str(e)}[/red]")
+                    await asyncio.sleep(1)
+        except KeyboardInterrupt:
+            console.print("\nExiting settings...", style="bold yellow")
 
     def _display_settings_menu(self):
         """Display the settings menu."""

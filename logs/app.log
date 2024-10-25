@@ -631,3 +631,224 @@ expected_output
 2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
 2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
 2024-10-24 01:24:13,192 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:19:57,652 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:07,018 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:20,957 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:20:24,664 - ai_assistant - ERROR - Chat error: 
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:19,244 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:22:58,915 - ai_assistant - ERROR - Main menu error: 
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:43,196 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:24:57,337 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:30:20,204 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:37:30,203 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:39:52,086 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:45:29,187 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:50,457 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:54:57,156 - ai_assistant - ERROR - arXiv search error: 'itertools.islice' object does not support the asynchronous context manager protocol
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 12:56:12,879 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:00:05,259 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
