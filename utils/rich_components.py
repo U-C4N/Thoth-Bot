@@ -4,47 +4,29 @@ from rich.table import Table
 from rich.layout import Layout
 from rich.text import Text
 from typing import List
+from rich import box
 
 console = Console()
 
 def create_header(title: str) -> Panel:
-    """Create a stylized header panel."""
-    return Panel(
-        Text(title, justify="center", style="bold blue"),
-        border_style="blue",
-        padding=(1, 2)
-    )
+    """Create a header panel."""
+    return Panel(title, style="bold blue")
 
-def create_menu(plugins: List[str] = None) -> Panel:
+def create_menu(plugins: list = None) -> Panel:
     """Create the main menu panel."""
-    menu_table = Table(show_header=False, show_edge=False, box=None)
-    menu_table.add_column("Option", style="cyan")
-    menu_table.add_column("Description", style="white")
+    table = Table(box=box.ROUNDED, show_header=False, show_edge=False)
+    table.add_column("Option", style="cyan")
+    table.add_column("Description", style="green")
     
-    menu_items = [
-        ("1", "Chat with AI"),
-        ("2", "Generate Code"),
-        ("3", "Web Search"),
-        ("4", "ArXiv Search"),
-        ("5", "Settings"),
-        ("6", "Help"),
-        ("q", "Quit")
-    ]
+    # Add main menu options
+    table.add_row("1", "Chat with AI")
+    table.add_row("2", "Generate Code")
+    table.add_row("3", "Web Search")
+    table.add_row("4", "ArXiv Search")
+    table.add_row("5", "Settings")
+    table.add_row("q", "Quit")
     
-    # Add plugin options
-    if plugins:
-        for i, plugin in enumerate(plugins, start=7):
-            menu_items.append((str(i), f"Plugin: {plugin}"))
-    
-    for option, description in menu_items:
-        menu_table.add_row(f"[{option}]", description)
-    
-    return Panel(
-        menu_table,
-        title="Main Menu",
-        border_style="cyan",
-        padding=(1, 2)
-    )
+    return Panel(table, title="Main Menu", border_style="blue")
 
 def create_error_panel(message: str) -> Panel:
     """Create an error message panel."""

@@ -41,10 +41,6 @@ class ConfigManager:
         self.config["ArXiv"] = {
             "results_per_page": "10"
         }
-        self.config["Plugin.CalculatorPlugin"] = {
-            "precision": "2",
-            "max_value": "1e10"
-        }
         self.save_config()
 
     def save_config(self) -> None:
@@ -83,8 +79,6 @@ class ConfigManager:
 
     def get_section(self, section: str) -> Dict[str, str]:
         """Get all key-value pairs in a section."""
-        if section == "DEFAULT":
-            return dict(self.config.defaults())
-        if self.config.has_section(section):
-            return dict(self.config.items(section))
-        return {}
+        if not self.config.has_section(section):
+            return {}
+        return dict(self.config[section])

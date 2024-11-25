@@ -1,8 +1,7 @@
-from typing import Dict, Any, Optional
-from dataclasses import dataclass
+from typing import Dict, Any, Optional, List
+from pydantic import BaseModel
 
-@dataclass
-class ModelConfig:
+class ModelConfig(BaseModel):
     """Configuration for an AI model."""
     name: str
     provider: str
@@ -12,12 +11,28 @@ class ModelConfig:
     presence_penalty: float = 0.0
     frequency_penalty: float = 0.0
     context_window: Optional[int] = None
-    stop_sequences: Optional[list] = None
+    stop_sequences: Optional[List[str]] = None
+
+    model_config = {
+        "from_attributes": True,
+        "validate_assignment": True,
+        "extra": "allow",
+        "str_strip_whitespace": True,
+        "validate_default": True,
+        "json_schema_extra": {
+            "example": {
+                "name": "gpt-4",
+                "provider": "openai",
+                "max_tokens": 4096,
+                "temperature": 0.7
+            }
+        }
+    }
 
 class ModelConfigManager:
     """Manages AI model configurations."""
-    def __init__(self, config_manager):
-        self.config_manager = config_manager
+    def __init__(self, config):
+        self.config_manager = config
         self.default_configs = {
             "openai": {
                 "gpt-4": ModelConfig(
@@ -48,8 +63,8 @@ class ModelConfigManager:
                 )
             },
             "groq": {
-                "llama-3.2-90b-vision-preview": ModelConfig(
-                    name="llama-3.2-90b-vision-preview",
+                "mixtral-8x7b-32768": ModelConfig(
+                    name="mixtral-8x7b-32768",
                     provider="groq",
                     max_tokens=4096,
                     context_window=32768

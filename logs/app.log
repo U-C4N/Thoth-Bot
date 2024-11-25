@@ -852,3 +852,1603 @@ expected_output
 2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
 2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
 2024-10-25 13:02:08,471 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:02,301 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Groq chat completion error: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:22:30,275 - ai_assistant - ERROR - Error getting chat response: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:32,368 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,892 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:23:37,896 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,975 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:24:26,979 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: llama-3.1-70b-versatile
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:54,317 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,185 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:26:57,186 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:30,456 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Groq chat completion error: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:27:42,683 - ai_assistant - ERROR - Error getting chat response: No configuration found for groq model: gemma2-9b-it
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:29:40,133 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:30:47,167 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:33:02,242 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 13:35:38,263 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:24,017 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 14:54:46,283 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:17,790 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 15:05:33,997 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:38,676 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:05:53,546 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:06:08,620 - ai_assistant - ERROR - Analysis parsing error: Expecting ',' delimiter: line 41 column 30 (char 1388)
+Response: ```json
+[
+  {
+    "title": "Implement Logging",
+    "description": "Logging helps in debugging, monitoring, and understanding application behavior.",
+    "requirements": ["logging"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Add Configuration File",
+    "description": "Store application settings in a config file for easier management and customization.",
+    "requirements": ["configparser"],
+    "complexity": "Easy"
+  },
+  {
+    "title": "Use a Database",
+    "description": "Persist data using a database for scalability and reliability.",
+    "requirements": ["sqlalchemy"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Implement User Authentication",
+    "description": "Secure the application by allowing users to create accounts and log in.",
+    "requirements": ["flask-login"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Add Unit Tests",
+    "description": "Improve code quality and ensure functionality with comprehensive unit tests.",
+    "requirements": ["pytest"],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Create a Dockerfile",
+    "description": "Package the application for easier deployment and portability.",
+    "requirements": [],
+    "complexity": "Medium"
+  },
+  {
+    "title": "Integrate with a Cloud Service",
+    "description": "Enhance functionality by integrating with cloud services like AWS or Google Cloud.",
+    "requirements": ["boto3" or "google-cloud-storage"],
+    "complexity": "Hard"
+  }
+]
+```
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:13,371 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:45:27,476 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:50:40,355 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:51:05,607 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 16:52:09,217 - ai_assistant - ERROR - Code generation error: Expecting value: line 1 column 1 (char 0)
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:02:51,042 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:03:07,509 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:04:14,102 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:06:09,893 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:18,416 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:34,329 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:17:46,955 - ai_assistant - ERROR - Code generation error: 0
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:19:26,800 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:25:00,112 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:13,154 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:47:13,154 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:47:13,154 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 17:47:32,830 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 18:20:20,607 - ai_assistant - ERROR - Implementation error: [Errno 2] No such file or directory: 'generated_project_20241125_182012\\src/main.py'
+Response: ```json
+{
+  "modified_files": [
+    {
+      "path": "src/main.py",
+      "content": "import logging\n\nfrom flask import Flask\n\n# Configure logging\nlogging.basicConfig(level=logging.INFO)\n\n app = Flask(__name__)\n\n@app.route('/')\ndef index():\n    logging.info('User accessed the home page')\n    return 'Hello, World!' \n\nif __name__ == '__main__':\napp.run(debug=True)",
+      "changes": "Added logging setup and logged a message when the home page is accessed."
+    }
+  ],
+  "new_files": [],
+  "dependencies": ["logging"]
+}
+``` 
+
+
+
+
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:52:55,746 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:29,654 - ai_assistant - WARNING - Skipping non-existent file: src\main.py
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:53:55,640 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:54:23,828 - ai_assistant - INFO - Loaded plugins: ['CalculatorPlugin']
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 20:55:55,374 - ai_assistant - ERROR - Code generation error: 
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-25 23:48:48,348 - ai_assistant - ERROR - Application error: Code execution is set to be run in docker (default behaviour) but docker is not running.
+The options available are:
+- Make sure docker is running (advised approach for code execution)
+- Set "use_docker": False in code_execution_config
+- Set AUTOGEN_USE_DOCKER to "0/False/no" in your environment variables
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:21:53,683 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:24:57,740 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:30:12,582 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:33:43,911 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,572 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:39:37,588 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,912 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:41:17,928 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - INFO - Successfully initialized Gemini model: gemini-exp-1121
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
+2024-11-26 00:42:24,292 - ai_assistant - ERROR - Application error: 'model'
